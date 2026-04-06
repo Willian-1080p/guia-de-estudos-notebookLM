@@ -21,7 +21,7 @@ Abaixo Foram selecionadas fontes para o estudo e melhoria no meu laboratorio vis
 - https://go2docs.graylog.org/illuminate-current/content_packs/windows_security_event_logs_content_pack.html
        - Graylog Docs → gerenciamento e análise de logs (SIEM)
 - https://www.elastic.co/docs/reference/beats/winlogbeat/
-       * Elastic Winlogbeat → coleta e envio de logs do Windows
+       - Elastic Winlogbeat → coleta e envio de logs do Windows
 
 alem destes foram usados os links de meus repositorios o WillSecLab para que a llm me ajude a estudar corrigir e melhorar os mesmos
 estes repositorios tem meus projetos que desenvolvi atravez de pesquisas ou projetos e melhorei e reimaginei com o uso da IA 
