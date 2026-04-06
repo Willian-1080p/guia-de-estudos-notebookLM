@@ -56,7 +56,24 @@ Resposta mais detalhada, com foco em eventos específicos e aplicação prática
 
 # *Aprendizado:*
 Prompts genéricos geram respostas superficiais. Quanto mais contexto e tecnologia envolvida, melhor o resultado.
+
 ---
+
+# Caso 2: Implementação prática no laboratorio
+# *Prompt inicial:*
+"Como usar o grayLog?"
+
+*Resultado:*
+Resposta ampla e pouco direcionada 
+
+# *Prompt melhorado:*
+"Como configurar inputs e streams no Graylog para monitorar eventos de segurança do Windows enviados pelo Winlogbeat?"
+
+*Resultado:*
+Resposta prática com direcionamento técnico e aplicável ao ambiente real.
+
+# *Aprendizado:*
+Especificar o cenário (ferramentas + objetivo) melhora significativamente a qualidade da resposta.
 
 ---
 
