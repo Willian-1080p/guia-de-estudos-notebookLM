@@ -1,4 +1,4 @@
-# *Tema Do Projeto*
+## *Tema Do Projeto*
 
 Este projeto tem como foco a construção de um caderno temático utilizando IA para análise e organização de conhecimentos em:
 
@@ -10,9 +10,9 @@ O conteúdo foi baseado em projetos reais desenvolvidos Para testes no meu labor
 
 ---
 
-# *Curadoria de Fontes*
+## *Curadoria de Fontes*
 
-Abaixo Foram selecionadas fontes para o estudo e melhoria no meu laboratorio visando o estudo e aprendizado em ciberseguraça, analise de logs e boas praticas em infraestrutura:
+Abaixo Foram selecionadas fontes para o estudo e melhoria no meu laboratorio visando o estudo e aprendizado em cibersegurança, análise de logs e boas praticas em infraestrutura:
 
 - https://cheatsheetseries.owasp.org/cheatsheets/AI_Agent_Security_Cheat_Sheet.html
 - https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html
@@ -24,7 +24,7 @@ Abaixo Foram selecionadas fontes para o estudo e melhoria no meu laboratorio vis
        - Elastic Winlogbeat → coleta e envio de logs do Windows
 
 alem destes foram usados os links de meus repositorios o WillSecLab para que a llm me ajude a estudar corrigir e melhorar os mesmos
-estes repositorios tem meus projetos que desenvolvi atravez de pesquisas ou projetos e melhorei e reimaginei com o uso da IA 
+estes repositorios tem meus projetos que desenvolvi através de pesquisas ou projetos e melhorei e reimaginei com o uso da IA 
 
 - https://github.com/Willian-1080p/PDI-Gitlab 
 - https://github.com/Willian-1080p/home-cyber-lab
@@ -33,9 +33,9 @@ estes repositorios tem meus projetos que desenvolvi atravez de pesquisas ou proj
 
 ---
 
-# *Emgenharia de Pronpts e "Cicatrizes"*
+## *Engenharia de Prompts e "Cicatrizes"*
 
-Durante o Uso do NotebooKLM, Foram feitos varios teste de Pronpts tendo como opjetivo Extrarir respostas mais precisas, Praticas e aplicaveis ao meu Laboratorio
+Durante o Uso do NotebooKLM, Foram feitos varios teste de Pronpts tendo como objetivo extrair respostas mais precisas, Praticas e aplicaveis ao meu Laboratorio
 
 Abaixo alguns exemplos de prompts e evolução dos mesmos
 
@@ -77,7 +77,7 @@ Especificar o cenário (ferramentas + objetivo) melhora significativamente a qua
 
 ---
 
-# Caso 2: Detecção de ameaças 
+# Caso 3: Detecção de ameaças 
 *Prompt inicial:**
 "Como detectar ataques?"
 
@@ -88,21 +88,21 @@ Muito generico, sem contexto técnico.
 "Quais eventos do Windows (Event ID) indicam possíveis ataques de força bruta e como identificá-los no Graylog?"
 
 *Resultado:*
-Resposta técnica, incluindo eventos relevantes e formas de analise.
+Resposta técnica, incluindo eventos relevantes e formas de análise.
 
 # *Aprendizado:*
 Adicionando Termos técnicos (ex: Event ID, brute force) direciona a IA para respostas mais úteis e diretas.
 
 ---
 
-# "Cicatrizes"
+## "Cicatrizes"
 - Respostas Genéricas quando o prompt era muito amplo 
 - necessidade de reformular perguntas várias vezes 
 - Dificuldade inicial de conectar a teoria com o ambiente real
 
 ---
 
-# Estratégias adotadas
+## Estratégias adotadas
 
 - Uso de Prompts mais especificos e contextuais 
 - inclusao de ferramentas reais como graylog e winlogbeat
@@ -110,7 +110,7 @@ Adicionando Termos técnicos (ex: Event ID, brute force) direciona a IA para res
 
 ---
 
-# *Resumo estruturado*
+## *Resumo estruturado*
 
 A análise de logs é uma prática essencial em cibersegurança, permitindo identificar eventos suspeitos, falhas de autenticação e possíveis ataques.
 
@@ -126,7 +126,7 @@ A utilização de IA (NotebookLM) potencializa o aprendizado, permitindo anális
 
 ---
 
-# *Glossário*
+## *Glossário*
 - *SIEM (Security Information and Event Management):** Sistema responsável por coletar, analisar e correlacionar eventos de segurança.
 - *Log:* Registro de eventos ocorridos em um sistema.
 - *Event ID:* Identificador único de um evento no Windows.
@@ -140,7 +140,7 @@ A utilização de IA (NotebookLM) potencializa o aprendizado, permitindo anális
 
 ---
 
-# *Prompts Reutilizaveis*
+## *Prompts Reutilizaveis*
 
 Os prompts abaixo podem ser utilizados para estudos futuros e evolução do laboratório:
 
@@ -153,3 +153,8 @@ Os prompts abaixo podem ser utilizados para estudos futuros e evolução do labo
 - "Quais eventos devem ser monitorados para detectar atividades suspeitas?"
 
 ---
+
+## *Resultado Final:*
+
+Este projeto demonstra a utilização prática de IA como ferramenta de aprendizado ativo, aplicada em cenários reais de cibersegurança.
+A integração entre documentação oficial, projetos próprios e engenharia de prompts permitiu evoluir não apenas o conhecimento técnico, mas também a capacidade de análise, troubleshooting e construção de soluções.
