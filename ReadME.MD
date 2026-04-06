@@ -6,7 +6,7 @@ Este projeto tem como foco a construção de um caderno temático utilizando IA 
 - Infraestrutura de TI
 - DevSecOps
 
-O conteúdo foi baseado em projetos reais desenvolvidos no meu laboratório pessoal (WillSecLab), utilizando ferramentas como Graylog, Docker e automações.
+O conteúdo foi baseado em projetos reais desenvolvidos Para testes no meu laboratório pessoal (WillSecLab), utilizando ferramentas como Graylog, Docker e automações.
 
 ---
 
