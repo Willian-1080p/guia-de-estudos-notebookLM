@@ -16,10 +16,10 @@ Abaixo Foram selecionadas fontes para o estudo e melhoria no meu laboratorio vis
 
 - https://cheatsheetseries.owasp.org/cheatsheets/AI_Agent_Security_Cheat_Sheet.html
 - https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html
-       * OWASP Cheat Sheets → boas práticas de segurança e defesa
+       - OWASP Cheat Sheets → boas práticas de segurança e defesa
 - https://go2docs.graylog.org/current/home.htm
 - https://go2docs.graylog.org/illuminate-current/content_packs/windows_security_event_logs_content_pack.html
-       * Graylog Docs → gerenciamento e análise de logs (SIEM)
+       - Graylog Docs → gerenciamento e análise de logs (SIEM)
 - https://www.elastic.co/docs/reference/beats/winlogbeat/
        * Elastic Winlogbeat → coleta e envio de logs do Windows
 
