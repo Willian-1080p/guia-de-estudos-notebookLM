@@ -77,4 +77,20 @@ Especificar o cenário (ferramentas + objetivo) melhora significativamente a qua
 
 ---
 
+# Caso 2: Detecção de ameaças 
+*Prompt inicial:**
+"Como detectar ataques?"
+
+*Resultado:*
+Muito generico, sem contexto técnico.
+
+*Prompt melhorado:*
+"Quais eventos do Windows (Event ID) indicam possíveis ataques de força bruta e como identificá-los no Graylog?"
+
+*Resultado:*
+Resposta técnica, incluindo eventos relevantes e formas de analise.
+
+# *Aprendizado:*
+Adicionando Termos técnicos (ex: Event ID, brute force) direciona a IA para respostas mais úteis e diretas.
+
 ---
