@@ -26,10 +26,10 @@ Abaixo Foram selecionadas fontes para o estudo e melhoria no meu laboratorio vis
 alem destes foram usados os links de meus repositorios o WillSecLab para que a llm me ajude a estudar corrigir e melhorar os mesmos
 estes repositorios tem meus projetos que desenvolvi atravez de pesquisas ou projetos e melhorei e reimaginei com o uso da IA 
 
-https://github.com/Willian-1080p/PDI-Gitlab 
-https://github.com/Willian-1080p/home-cyber-lab
-https://github.com/Willian-1080p/Security-testes
-https://github.com/Willian-1080p/GrayLogs
+- https://github.com/Willian-1080p/PDI-Gitlab 
+- https://github.com/Willian-1080p/home-cyber-lab
+- https://github.com/Willian-1080p/Security-testes
+- https://github.com/Willian-1080p/GrayLogs
 
 ---
 
