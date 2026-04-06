@@ -109,3 +109,34 @@ Adicionando Termos técnicos (ex: Event ID, brute force) direciona a IA para res
 - interação contínua *(EX: teste -> ajuste -> melhoria)*
 
 ---
+
+# Resumo estruturado
+
+A análise de logs é uma prática essencial em cibersegurança, permitindo identificar eventos suspeitos, falhas de autenticação e possíveis ataques.
+
+Ferramentas como Graylog (SIEM) e Winlogbeat são utilizadas para coletar, centralizar e analisar logs de sistemas Windows.
+
+O Winlogbeat atua na coleta de eventos do Windows (Event Viewer), enviando esses dados para um sistema central como o Graylog, onde podem ser filtrados, organizados e visualizados através de dashboards.
+
+Eventos importantes, como falhas de login (ex: Event ID 4625), são fundamentais para detectar possíveis ataques de força bruta.
+
+Além disso, boas práticas de segurança, como as recomendadas pela OWASP, auxiliam na definição de quais eventos devem ser monitorados e como estruturar logs de forma eficiente.
+
+A utilização de IA (NotebookLM) potencializa o aprendizado, permitindo análise das fontes, geração de insights e apoio na resolução de problemas reais do laboratório.
+
+---
+
+# Glossário
+- *SIEM (Security Information and Event Management):** Sistema responsável por coletar, analisar e correlacionar eventos de segurança.
+- *Log:* Registro de eventos ocorridos em um sistema.
+- *Event ID:* Identificador único de um evento no Windows.
+- *Winlogbeat:* Ferramenta que coleta logs do Windows e os envia para sistemas de análise.
+- *Graylog:* Plataforma SIEM para análise e monitoramento de logs.
+- *Brute Force:* Tentativa de acesso por repetição de senhas.
+- *Dashboard:* Painel visual para monitoramento de dados.
+- *Input (Graylog):* Entrada de dados de logs.
+- *Stream (Graylog):* Filtro e organização de logs.
+- *Hardening:* Processo de reforço da segurança de sistemas.
+
+---
+
