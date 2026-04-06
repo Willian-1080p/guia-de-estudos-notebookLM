@@ -1,4 +1,4 @@
-# Tema Do Projeto
+# *Tema Do Projeto*
 
 Este projeto tem como foco a construção de um caderno temático utilizando IA para análise e organização de conhecimentos em:
 
@@ -10,7 +10,7 @@ O conteúdo foi baseado em projetos reais desenvolvidos Para testes no meu labor
 
 ---
 
-# Curadoria de Fontes
+# *Curadoria de Fontes*
 
 Abaixo Foram selecionadas fontes para o estudo e melhoria no meu laboratorio visando o estudo e aprendizado em ciberseguraça, analise de logs e boas praticas em infraestrutura:
 
@@ -33,7 +33,7 @@ estes repositorios tem meus projetos que desenvolvi atravez de pesquisas ou proj
 
 ---
 
-# Emgenharia de Pronpts e "Cicatrizes"
+# *Emgenharia de Pronpts e "Cicatrizes"*
 
 Durante o Uso do NotebooKLM, Foram feitos varios teste de Pronpts tendo como opjetivo Extrarir respostas mais precisas, Praticas e aplicaveis ao meu Laboratorio
 
@@ -110,7 +110,7 @@ Adicionando Termos técnicos (ex: Event ID, brute force) direciona a IA para res
 
 ---
 
-# Resumo estruturado
+# *Resumo estruturado*
 
 A análise de logs é uma prática essencial em cibersegurança, permitindo identificar eventos suspeitos, falhas de autenticação e possíveis ataques.
 
@@ -126,7 +126,7 @@ A utilização de IA (NotebookLM) potencializa o aprendizado, permitindo anális
 
 ---
 
-# Glossário
+# *Glossário*
 - *SIEM (Security Information and Event Management):** Sistema responsável por coletar, analisar e correlacionar eventos de segurança.
 - *Log:* Registro de eventos ocorridos em um sistema.
 - *Event ID:* Identificador único de um evento no Windows.
@@ -140,7 +140,7 @@ A utilização de IA (NotebookLM) potencializa o aprendizado, permitindo anális
 
 ---
 
-# Prompts Reutilizaveis
+# *Prompts Reutilizaveis*
 
 Os prompts abaixo podem ser utilizados para estudos futuros e evolução do laboratório:
 
