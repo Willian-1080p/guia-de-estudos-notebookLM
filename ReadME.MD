@@ -94,3 +94,18 @@ Resposta técnica, incluindo eventos relevantes e formas de analise.
 Adicionando Termos técnicos (ex: Event ID, brute force) direciona a IA para respostas mais úteis e diretas.
 
 ---
+
+# "Cicatrizes"
+- Respostas Genéricas quando o prompt era muito amplo 
+- necessidade de reformular perguntas várias vezes 
+- Dificuldade inicial de conectar a teoria com o ambiente real
+
+---
+
+# Estratégias adotadas
+
+- Uso de Prompts mais especificos e contextuais 
+- inclusao de ferramentas reais como graylog e winlogbeat
+- interação contínua *(EX: teste -> ajuste -> melhoria)*
+
+---
