@@ -33,4 +33,31 @@ estes repositorios tem meus projetos que desenvolvi atravez de pesquisas ou proj
 
 ---
 
-## Emgenharia de Pronpts e "Cicatrizes"
+# Emgenharia de Pronpts e "Cicatrizes"
+
+Durante o Uso do NotebooKLM, Foram feitos varios teste de Pronpts tendo como opjetivo Extrarir respostas mais precisas, Praticas e aplicaveis ao meu Laboratorio
+
+Abaixo alguns exemplos de prompts e evolução dos mesmos
+
+---
+
+# Caso 1: Entendimento de Logs de Segurança
+# *Prompt inicial:*
+"Explique logs de segurança"
+
+*Resultado:*
+Resposta muito genérica, sem aplicação prática.
+
+# *Prompt melhorado:*
+"Explique como identificar tentativas de login falhas em logs do Windows utilizando Winlogbeat e Graylog"
+
+*Resultado:*
+Resposta mais detalhada, com foco em eventos específicos e aplicação prática.
+
+# *Aprendizado:*
+Prompts genéricos geram respostas superficiais. Quanto mais contexto e tecnologia envolvida, melhor o resultado.
+---
+
+---
+
+---
