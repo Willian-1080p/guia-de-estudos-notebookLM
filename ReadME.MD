@@ -140,3 +140,16 @@ A utilização de IA (NotebookLM) potencializa o aprendizado, permitindo anális
 
 ---
 
+# Prompts Reutilizaveis
+
+Os prompts abaixo podem ser utilizados para estudos futuros e evolução do laboratório:
+
+- "Explique como identificar falhas de login em logs do Windows utilizando Graylog"
+- "Quais Event IDs indicam possíveis ataques de força bruta?"
+- "Como configurar o Winlogbeat para enviar logs de segurança?"
+- "Sugira melhorias de segurança para um ambiente com Graylog e Winlogbeat"
+- "Quais boas práticas da OWASP podem ser aplicadas em análise de logs?"
+- "Como criar dashboards eficientes para monitoramento de segurança?"
+- "Quais eventos devem ser monitorados para detectar atividades suspeitas?"
+
+---
